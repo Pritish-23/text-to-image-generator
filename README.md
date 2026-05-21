@@ -6,7 +6,6 @@ Real-time text-to-image generation using Fine-tuned Stable Diffusion, CGAN and A
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red.svg)](https://pytorch.org)
 [![Diffusers](https://img.shields.io/badge/Diffusers-HuggingFace-yellow.svg)](https://huggingface.co/docs/diffusers)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A comprehensive text-to-image generation pipeline built from
 scratch using Fine-tuned Stable Diffusion (LoRA), Conditional
