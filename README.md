@@ -33,7 +33,7 @@ system that routes prompts to the most suitable model:
 ---
 
 ## 🏗️ Architecture
-
+'''
 Text Prompt
 ↓
 CLIP Text Encoder (512-dim embedding)
@@ -51,6 +51,7 @@ Generated Image
 CLIP Score Evaluation
 
 ---
+'''
 
 ## 📚 Project Structure
 
@@ -79,6 +80,7 @@ text-to-image-generator/
 └── demo.py
 
 ---
+'''
 
 ## 🔧 Tasks Completed
 
