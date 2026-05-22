@@ -6,6 +6,7 @@ Real-time text-to-image generation using Fine-tuned Stable Diffusion, CGAN and A
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red.svg)](https://pytorch.org)
 [![Diffusers](https://img.shields.io/badge/Diffusers-HuggingFace-yellow.svg)](https://huggingface.co/docs/diffusers)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15MR-_gOiKi_0rdlCEpoo3FJIqMv9nb0k)
 
 A comprehensive text-to-image generation pipeline built from
 scratch using Fine-tuned Stable Diffusion (LoRA), Conditional
@@ -146,8 +147,6 @@ text-to-image-generator/
 3. Run cells in order
 
 Link for the Colab File: https://colab.research.google.com/drive/15MR-_gOiKi_0rdlCEpoo3FJIqMv9nb0k?usp=sharing
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15MR-_gOiKi_0rdlCEpoo3FJIqMv9nb0k)
 
 ### Option 2 — Local Setup
 ```bash
