@@ -59,23 +59,10 @@ text-to-image-generator/
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-│   ├── 01_dataset_exploration.ipynb
-│   ├── 02_clip_embeddings.ipynb
-│   ├── 03_cgan.ipynb
-│   ├── 04_attention_gan.ipynb
-│   ├── 05_stable_diffusion.ipynb
-│   └── 06_pipeline.ipynb
-├── src/
-│   ├── dataset.py
-│   ├── models/
-│   │   ├── cgan.py
-│   │   ├── attention_gan.py
-│   │   └── pipeline.py
-│   └── utils.py
+│   ├── text_to_image_generator_project.ipynb
 ├── outputs/
 │   ├── sample_images/
 │   └── plots/
-└── demo.py
 ```
 ## 🔧 Tasks Completed
 
