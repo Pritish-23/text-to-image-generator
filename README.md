@@ -28,12 +28,7 @@ system that routes prompts to the most suitable model:
 ### Fine-tuned Stable Diffusion
 | Sunflower | Rose | Lotus | Hibiscus |
 |-----------|------|-------|---------|
-| ![sunflower](outputs/sample_images/sunflower.png) | ![rose](outputs/sample_images/rose.png) | ![lotus](outputs/sample_images/lotus.png) | ![hibiscus](outputs/sample_images/hibiscus.png) |
-
-### GAN Generated Shapes
-| Circle (CGAN) | Square (CGAN) | Triangle (Attention GAN) |
-|---------------|---------------|--------------------------|
-| ![circle](outputs/sample_images/circle.png) | ![square](outputs/sample_images/square.png) | ![triangle](outputs/sample_images/triangle.png) |
+| ![sunflower](outputs/sample_images/flower_1.png) | ![rose](outputs/sample_images/flower_2.png) | ![lotus](outputs/sample_images/flower_3.png) | ![hibiscus](outputs/sample_images/flower_4.png) |
 
 ---
 
