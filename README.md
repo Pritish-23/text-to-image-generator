@@ -147,6 +147,8 @@ text-to-image-generator/
 
 Link for the Colab File: https://colab.research.google.com/drive/15MR-_gOiKi_0rdlCEpoo3FJIqMv9nb0k?usp=sharing
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15MR-_gOiKi_0rdlCEpoo3FJIqMv9nb0k)
+
 ### Option 2 — Local Setup
 ```bash
 # Clone the repo
