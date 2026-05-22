@@ -33,7 +33,7 @@ system that routes prompts to the most suitable model:
 ---
 
 ## 🏗️ Architecture
-'''
+```
 Text Prompt
 ↓
 CLIP Text Encoder (512-dim embedding)
@@ -49,13 +49,10 @@ Prompt Router
 Generated Image
 ↓
 CLIP Score Evaluation
-
----
-'''
+```
 
 ## 📚 Project Structure
-
-'''
+```
 text-to-image-generator/
 │
 ├── README.md
@@ -78,19 +75,16 @@ text-to-image-generator/
 │   ├── sample_images/
 │   └── plots/
 └── demo.py
-
----
-'''
-
+```
 ## 🔧 Tasks Completed
 
 | Task | Description | Status |
 |------|-------------|--------|
-| Task 3 | Dataset loading & exploration (Oxford-102) | ✅ |
-| Task 4 | Text preprocessing & CLIP embeddings | ✅ |
-| Task 2 | Conditional GAN from scratch | ✅ |
-| Task 5 | Attention-enhanced GAN | ✅ |
-| Task 1 | Fine-tune Stable Diffusion (LoRA) | ✅ |
+| Task 1 | Dataset loading & exploration (Oxford-102) | ✅ |
+| Task 2 | Text preprocessing & CLIP embeddings | ✅ |
+| Task 3 | Conditional GAN from scratch | ✅ |
+| Task 4 | Attention-enhanced GAN | ✅ |
+| Task 5 | Fine-tune Stable Diffusion (LoRA) | ✅ |
 | Task 6 | Full end-to-end pipeline | ✅ |
 
 ---
@@ -169,7 +163,7 @@ python demo.py
 ---
 
 ## 📦 Requirements
-
+```
 torch>=2.0.0
 torchvision>=0.15.0
 diffusers>=0.21.0
@@ -183,7 +177,7 @@ seaborn>=0.12.0
 scikit-learn>=1.3.0
 Pillow>=10.0.0
 numpy>=1.24.0
-
+```
 ---
 
 ## 🛠️ Technologies Used
