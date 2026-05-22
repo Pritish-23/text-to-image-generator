@@ -54,6 +54,7 @@ CLIP Score Evaluation
 
 ## 📚 Project Structure
 
+'''
 text-to-image-generator/
 │
 ├── README.md
