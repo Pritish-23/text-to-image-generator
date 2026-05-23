@@ -138,7 +138,7 @@ Link for the Colab File: https://colab.research.google.com/drive/15MR-_gOiKi_0rd
 ### Option 2 — Local Setup
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/text-to-image-generator
+git clone https://github.com/Pritish-23/text-to-image-generator
 cd text-to-image-generator
 
 # Install dependencies
