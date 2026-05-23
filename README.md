@@ -8,6 +8,15 @@ Real-time text-to-image generation using Fine-tuned Stable Diffusion, CGAN and A
 [![Diffusers](https://img.shields.io/badge/Diffusers-HuggingFace-yellow.svg)](https://huggingface.co/docs/diffusers)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15MR-_gOiKi_0rdlCEpoo3FJIqMv9nb0k)
 
+## 🔗 Links
+
+| | Link |
+|--|------|
+| 📓 Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15MR-_gOiKi_0rdlCEpoo3FJIqMv9nb0k) |
+| 🤗 Live Demo | [![HF Space](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/Pritish23/text-to-image-generator) |
+| 🧠 LoRA Model | [![HF Model](https://img.shields.io/badge/🤗-LoRA%20Weights-yellow)](https://huggingface.co/Pritish23/flower-lora-weights) |
+| 💻 GitHub | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/Pritish-23/text-to-image-generator) |
+
 A comprehensive text-to-image generation pipeline built from
 scratch using Fine-tuned Stable Diffusion (LoRA), Conditional
 GAN, and Attention-enhanced GAN on the Oxford-102 Flowers dataset.
@@ -147,6 +156,13 @@ pip install -r requirements.txt
 # Run Gradio demo
 python demo.py
 ```
+
+### Option 3 — Live Demo (No setup required)
+
+[![HF Space](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/Pritish23/text-to-image-generator)
+
+Try it instantly at:
+[pritish23-text-to-image-generator.hf.space](https://pritish23-text-to-image-generator.hf.space)
 
 ---
 
